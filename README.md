@@ -1,2 +1,1 @@
-# javtest
-School java projects
+Bot for T-com browser game božićna prica
