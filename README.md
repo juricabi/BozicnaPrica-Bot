@@ -1,1 +1,1 @@
-Bot for T-com browser game božićna prica
+Bot for T-com browser game bozicna prica
